@@ -32,7 +32,7 @@ O projeto foi desenvolvido como uma simulação simples de monitoramento de nív
     - "Valor inesperado recebido, verifique os sensores por favor."
 
 ### Limitação atual
-    O acesso à lista é feito diretamente com message[level], o que pode gerar erro (IndexError) caso o valor ultrapasse o tamanho da lista.
+    - O acesso à lista é feito diretamente com message[level], o que pode gerar erro (IndexError) caso o valor ultrapasse o tamanho da lista.
 
 ---
 
